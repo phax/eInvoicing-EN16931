@@ -32,20 +32,21 @@ That was Licensed under the Apache License, Version 2.0
 # News and noteworthy
 
 * v1.3.13 - 2024-10-08 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.13
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/18
 * v1.3.12 - 2024-04-10 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.12
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/17
 * v1.3.11 - 2023-10-04 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.11
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/16
 * v1.3.10 - 2023-04-11 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.10
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/15
 * v1.3.9 - 2022-10-10 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.9
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/14
     * Updated code lists and minor fixes
 * v1.3.8 - 2022-04-08 (UBL and CII only)
-    * See all fixed issues: [https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.8](https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3A1.3.8)
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/13
     * Update code lists, improves CII validations and minor fixes
 * v1.3.7 - 2021-10-04 (UBL and CII only)
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/12
     * Merged requirements from XRechnung
     * Fix syntax issues
 * v1.3.6a - 2021-08-03 (UBL and CII only - KoSIT specific fix)
@@ -54,38 +55,39 @@ That was Licensed under the Apache License, Version 2.0
     * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.6
     * Hot fix to support country codes 1A - Kosovo and XI - United Kingdom (Northern Ireland) in rule BR-CO-09
 * v1.3.5 - 2021-03-29 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.5
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/11
     * Changes in the code lists and fixing CII errors.
 * v1.3.4 - 2021-01-27 (UBL and CII only)
     * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.4
     * Hot fix of error introduced in 1.3.3
 * v1.3.3 - 2020-10-02 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.3
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/10
 * v1.3.2 - 2020-05-25 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.2
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/9
     * Added code 0208 in EAS and 0205 to 0208 in ICD code lists
 * v1.3.1 - 2020-02-28 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.1
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/8
     * Some codelist values have been added
 * v1.3.0 - 2019-10-05 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.3.0
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/6
     * Some codelist values have been added
 * v1.2.3 - 2019-07-05 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.3
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/7
     * Some codelist values were missing
 * v1.2.2 - 2019-07-05 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.2
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/4
 * v1.2.1 - 2019-05-14 (UBL and CII only)
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2.1
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/5
 * v1.2.0 - 2019-04-26 (UBL and CII only)
     * Note: this release does NOT contain the EDIFACT eInvoicing-EN16931 rules - its development is currently paused/stalled
     * Note: this release is not backwards compatible, and the examples files were changed as well.
-    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av1.2
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/2
     * The UBL ODS files were removed, because they were out of sync with the used rules
     * The folder names for examples files were unified across the syntaxes
     * The name of the UBL Schematron/XSLT files was changed from `EN16931-UBL-model.*` to `EN16931-UBL-eInvoicing-EN16931.*`
 * v1.1.0 - 2018-06-26 (UBL and CII only)
     * Note: this release does NOT contain the EDIFACT eInvoicing-EN16931 rules - its development is currently paused/stalled
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/1
     * New participant identifier schemes are supported
         * `0184` in [issue #64](https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/64)
         * `0190` in [issue #70](https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/70)
@@ -102,5 +104,6 @@ That was Licensed under the Apache License, Version 2.0
     * Fixed error message of `BR-AF-05` CII ([issue #60](https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/60))
     * The value `532` was not supported in `BR-CL-01` ([issue #63](https://github.com/ConnectingEurope/eInvoicing-EN16931/issues/63))
 * v1.0.0 - 2018-02-08 (UBL, CII and EDIFACT)
+    * See all fixed issues: https://github.com/ConnectingEurope/eInvoicing-EN16931/milestone/3
     * Initial release
 
