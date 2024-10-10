@@ -13,7 +13,7 @@ For each syntax a separate folder exists where all related artefacts are to be p
   * UBL Website: https://www.oasis-open.org/committees/ubl/
   * Used XML Schemas: http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.zip
 * `cii` - Cross Industry Invoice (D16B) - EN mandatory syntax
-  * XML Schemas overview: http://www.unece.org/cefact/xml_schemas/index.html
+  * XML Schemas overview: https://unece.org/trade/uncefact/xml-schemas
   * Used XML Schemas: http://www.unece.org/fileadmin/DAM/cefact/xml_schemas/D16B_SCRDM__Subset__CII.zip
 * `edifact` - UN/EDIFACT (and ISO 26025 based XML version) - EN optional syntax
 
